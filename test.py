@@ -1,6 +1,7 @@
 from turtle import hideturtle
+from numpy import loadtxt
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 
-
-print("hello world")
-print("jonah was here")
-print("asa wuz here")
+import sys 
+print(sys)
